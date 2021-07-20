@@ -1,0 +1,16 @@
+[
+  {
+    "issues": [
+      "https://github.com/Liquid-Labs/contained-core/issues/1"
+    ],
+    "branch": "2021.07.20-zane@liquid-labs.com-describe_project",
+    "startTimestampLocal": "2021-07-20-2124 UTC",
+    "branchFrom": "5df244884523d6c47a433aee7b5db155ee9713dc",
+    "description": "Describe project",
+    "workInitiator": "zane@liquid-labs.com",
+    "branchInitiator": "zane@liquid-labs.com",
+    "involvedProjects": [
+      "@liquid-labs/contained-core"
+    ]
+  }
+]
